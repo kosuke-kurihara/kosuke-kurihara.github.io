@@ -1,11 +1,7 @@
 exclude:
   - node_modules
   - script
-
 sass:
   style: :compressed
-
 remote_theme: pages-themes/primer@v0.6.0
-  
-title: Jekyll Theme Primer
-description: Primer is a Jekyll theme for GitHub Pages
+title: Kosuke Kurihara (栗原 康佑)

@@ -1,123 +1,48 @@
----
-layout: default
----
+Ph.D. student at the [Hamamoto Laboratory](https://www.rs.tus.ac.jp/hamalab/)
+Department of Electrical Engineering, Graduate School of Engineering, Tokyo University of Science, Japan
+[E-mail](mailto:4321701@ed.tus.ac.jp) / [LinkedIn](www.linkedin.com/in/kosuke-kurihara) / [Google Scholar](https://scholar.google.com/citations?user=52Q8lgcAAAAJ&hl=ja)
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
+## Research Interests
 
-[Link to another page](./another-page.html).
+Biomedical Engineering, Image Processing
 
-There should be whitespace between paragraphs.
+## Education
 
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
+**Ph.D., (Apr. 2021 - Current)**
+Department of Electrical Engineering, Graduate School of Engineering, Tokyo University of Science, Japan.
+[(Hamamoto Lab.)](https://www.rs.tus.ac.jp/hamalab/)
 
-# Header 1
+**M.S., (Apr. 2018 - Mar. 2020)**
+Department of Electrical Engineering, Graduate School of Engineering, Tokyo University of Science, Japan.
+[(Hamamoto Lab.)](https://www.rs.tus.ac.jp/hamalab/)
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+**B.S., (Apr. 2014 - Mar. 2018)**
+Department of Electrical Engineering, Faculty of Engineering, Tokyo University of Science, Japan.
+[(Hamamoto Lab.)](https://www.rs.tus.ac.jp/hamalab/)
 
-## Header 2
+## Work Experience
 
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
+**Software Engineer (Apr.2020-Feb.2022)**
+DENSO Corporation, Japan.
 
-### Header 3
+## Publications
 
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
+### Journals
 
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
+* **Kosuke Kurihara**, Daisuke Sugimura and Takayuki Hamamoto, "Non-Contact Heart Rate Estimation via Adaptive RGB/NIR Signal Fusion", IEEE Transactions on Image Processing (TIP), DOI: 10.1109/TIP.2021.3094739, Vol. 30, pp.  6528 -- 6543, 2021. (impact factor in 2020: 10.856)
 
-#### Header 4
+### International conferences
 
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
+* **Kosuke Kurihara**, Daisuke Sugimura, and Takayuki Hamamoto, "Adaptive Fusion of RGB/NIR Signals based on Face/Background Cross-spectral Analysis for Heart Rate Estimation", in Proc. of IEEE International Conference on Image Processing (ICIP), pp. 4534--4538, Sep. 2019. (poster) [(top 10% paper)](http://www.google.com/url?q=http%3A%2F%2F2019.ieeeicip.org%2F%3Faction%3Dpage3%26id%3D9&sa=D&sntz=1&usg=AOvVaw2BiNFfiot85zfa8q3oggOs)
 
-##### Header 5
+### 国内会議
 
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
+* **栗原康佑**，杉村大輔，浜本隆之，"RGB/NIR撮像に基づく照明変動・人物の動きに頑健な心拍数推定"，電子情報通信学会技術研究報告，Vol. 119，No. 456，pp. 47--50，2020．
+* **栗原康佑**，杉村大輔，浜本隆之，"RGB/NIR信号の選択的利用による照明変動に頑健な心拍数推定"，映像情報メディア学会年次大会，2019．
+* **栗原康佑**，杉村大輔，浜本隆之，"RGB/NIRカメラを用いた照明変動に頑健な心拍数推定"，電子情報通信学会技術研究報告，Vol. 118，No. 501，pp. 193--196，2019．
 
-###### Header 6
+### 招待講演等
 
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
-
-### There's a horizontal rule below this.
-
-* * *
-
-### Here is an unordered list:
-
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
-
-### And an ordered list:
-
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
-
-### And a nested list:
-
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-
-### Small image
-
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
-
-### Large image
-
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
-
-
-### Definition lists can be used with HTML syntax.
-
-<dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
-</dl>
-
-```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
-
-```
-The final element.
-```
+* **栗原康佑**，"マルチスペクトル映像解析に基づく非接触バイタルセンシング"，第 198 回次世代画像入力ビジョンシステム部会定例会，2022年5月．
+* **栗原康佑**，前田慶博，杉村大輔，浜本隆之，“RGB/NIR カメラを用いた環境光変動に頑健な心拍数推定"，東京理科大学スペースシステム創造研究センター 第3回宇宙シンポジウム，2022年3月．
+* **栗原康佑**，杉村大輔，浜本隆之，“RGB/NIRカメラを用いた環境光変動に頑健な心拍数推定"，東京理科大学スペース・コロニー研究センター 2018年度成果報告会，2019年3月．
