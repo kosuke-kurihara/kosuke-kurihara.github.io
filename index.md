@@ -34,7 +34,7 @@ DENSO Corporation, Japan.
 
 ### International conferences
 
-* **Kosuke Kurihara**, Daisuke Sugimura, and Takayuki Hamamoto, "Adaptive Fusion of RGB/NIR Signals based on Face/Background Cross-spectral Analysis for Heart Rate Estimation", in Proc. of IEEE International Conference on Image Processing (ICIP), pp. 4534--4538, Sep. 2019. (poster) [(top 10% paper)](http://www.google.com/url?q=http%3A%2F%2F2019.ieeeicip.org%2F%3Faction%3Dpage3%26id%3D9&sa=D&sntz=1&usg=AOvVaw2BiNFfiot85zfa8q3oggOs)
+* **Kosuke Kurihara**, Daisuke Sugimura, and Takayuki Hamamoto, "Adaptive Fusion of RGB/NIR Signals based on Face/Background Cross-spectral Analysis for Heart Rate Estimation", in Proc. of IEEE International Conference on Image Processing (ICIP), pp. 4534--4538, Sep. 2019. (poster) [(top 10% paper)](https://www.2019.ieeeicip.org/2019.ieeeicip.org/indexfade.html?action=page3&id=9)
 
 ### 国内会議
 
