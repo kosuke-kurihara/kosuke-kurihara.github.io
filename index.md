@@ -1,5 +1,4 @@
-Ph.D. student at the [Hamamoto Laboratory](https://www.rs.tus.ac.jp/hamalab/)
-
+Ph.D. student at the [Hamamoto Laboratory](https://www.rs.tus.ac.jp/hamalab/)  
 Department of Electrical Engineering, Graduate School of Engineering, Tokyo University of Science, Japan
 
 [E-mail](mailto:4321701@ed.tus.ac.jp) / [LinkedIn](www.linkedin.com/in/kosuke-kurihara) / [Google Scholar](https://scholar.google.com/citations?user=52Q8lgcAAAAJ&hl=ja)
