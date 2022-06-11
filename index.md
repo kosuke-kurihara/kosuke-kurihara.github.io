@@ -13,11 +13,11 @@ Biomedical Engineering, Image Processing
 Department of Electrical Engineering, Graduate School of Engineering, Tokyo University of Science, Japan.
 [(Hamamoto Lab.)](https://www.rs.tus.ac.jp/hamalab/)
 
-**M.S., (Apr. 2018 - Mar. 2020)**
+**M.E., (Apr. 2018 - Mar. 2020)**
 Department of Electrical Engineering, Graduate School of Engineering, Tokyo University of Science, Japan.
 [(Hamamoto Lab.)](https://www.rs.tus.ac.jp/hamalab/)
 
-**B.S., (Apr. 2014 - Mar. 2018)**
+**B.E., (Apr. 2014 - Mar. 2018)**
 Department of Electrical Engineering, Faculty of Engineering, Tokyo University of Science, Japan.
 [(Hamamoto Lab.)](https://www.rs.tus.ac.jp/hamalab/)
 
