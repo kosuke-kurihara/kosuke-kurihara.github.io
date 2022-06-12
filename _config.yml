@@ -5,3 +5,7 @@ sass:
   style: :compressed
 remote_theme: pages-themes/primer@v0.6.0
 title: Kosuke Kurihara (栗原 康佑)
+plugins:
+  - jekyll-seo-tag
+  - jekyll-sitemap
+description: Kosuke Kurihara (栗原 康佑) is a Ph.D. student at the Hamamoto Laboratory, Tokyo University of Science.
