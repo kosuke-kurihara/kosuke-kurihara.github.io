@@ -9,7 +9,7 @@ Department of Electrical Engineering, Graduate School of Engineering, Tokyo Univ
 
 ## Research Interests
 
-Biomedical Engineering, Image Processing
+Image Processing, Biomedical Engineering
 
 ## Education
 
@@ -42,6 +42,7 @@ DENSO Corporation, Japan.
 
 ### 国内会議
 
+* **栗原康佑**，前田慶博，杉村大輔，浜本隆之，"非接触心拍数計測のための時空間低ランク近似に基づく脈波推定"，画像の認識・理解シンポジウム，IS2-79，pp. 1--4，Jul.，2022．
 * **栗原康佑**，杉村大輔，浜本隆之，"RGB/NIR撮像に基づく照明変動・人物の動きに頑健な心拍数推定"，電子情報通信学会技術研究報告，Vol. 119，No. 456，pp. 47 -- 50，2020．
 * **栗原康佑**，杉村大輔，浜本隆之，"RGB/NIR信号の選択的利用による照明変動に頑健な心拍数推定"，映像情報メディア学会年次大会，2019．
 * **栗原康佑**，杉村大輔，浜本隆之，"RGB/NIRカメラを用いた照明変動に頑健な心拍数推定"，電子情報通信学会技術研究報告，Vol. 118，No. 501，pp. 193 -- 196，2019．
