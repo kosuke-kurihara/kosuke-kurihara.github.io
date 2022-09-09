@@ -29,12 +29,12 @@ Department of Electrical Engineering, Faculty of Engineering, Tokyo University o
 
 **Software Engineer (Apr. 2020-Feb. 2022)**
 DENSO Corporation, Japan.
-
-## Publications
+**
+**## Publications
 
 ### Journals
 
-* **Kosuke Kurihara**, Daisuke Sugimura, and Takayuki Hamamoto, "Non-Contact Heart Rate Estimation via Adaptive RGB/NIR Signal Fusion", IEEE Transactions on Image Processing (TIP), DOI: 10.1109/TIP.2021.3094739, Vol. 30, pp.  6528 -- 6543, 2021. (impact factor in 2020: 10.856)
+* **Kosuke Kurihara**, Daisuke Sugimura, and Takayuki Hamamoto, "Non-Contact Heart Rate Estimation via Adaptive RGB/NIR Signal Fusion", IEEE Transactions on Image Processing (TIP), DOI: 10.1109/TIP.2021.3094739, Vol. 30, pp.  6528 -- 6543, 2021. (impact factor in 2021: 11.041)
 
 ### International conferences
 
