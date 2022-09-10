@@ -30,7 +30,8 @@ Department of Electrical Engineering, Faculty of Engineering, Tokyo University o
 **Software Engineer (Apr. 2020-Feb. 2022)**
 DENSO Corporation, Japan.
 **
-**## Publications
+
+## Publications
 
 ### Journals
 
