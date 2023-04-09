@@ -29,6 +29,7 @@ Department of Electrical Engineering, Faculty of Engineering, Tokyo University o
 
 **DC2 Research Fellow (Apr. 2023 - Current)**
 Japan Society for the Promotion of Science.
+
 **Software Engineer (Apr. 2020 - Feb. 2022)**
 DENSO Corporation, Japan.
 
