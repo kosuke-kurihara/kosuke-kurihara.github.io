@@ -9,3 +9,4 @@ plugins:
   - jekyll-seo-tag
   - jekyll-sitemap
 description:
+google_analytics: G-W5WWQK7FXG
