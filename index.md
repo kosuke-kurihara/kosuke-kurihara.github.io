@@ -37,7 +37,7 @@ DENSO Corporation, Japan.
 
 ### Journals
 
-* **Kosuke Kurihara**, Yoshihiro Maeda, Daisuke Sugimura and Takayuki Hamamoto, "Spatio-Temporal Structure Extraction of Blood Volume Pulse Using Dynamic Mode Decomposition for Heart Rate Estimation", DOI: 10.1109/ACCESS.2023.3284465, to appear in IEEE Access, 2023. (impact factor in 2022: 3.476) [[link]](https://doi.org/10.1109/access.2023.3284465)
+* **Kosuke Kurihara**, Yoshihiro Maeda, Daisuke Sugimura and Takayuki Hamamoto, "Spatio-Temporal Structure Extraction of Blood Volume Pulse Using Dynamic Mode Decomposition for Heart Rate Estimation", to appear in IEEE Access, 2023. (impact factor in 2022: 3.476) [[link]](https://doi.org/10.1109/access.2023.3284465)
 * **Kosuke Kurihara**, Daisuke Sugimura, and Takayuki Hamamoto, "Non-Contact Heart Rate Estimation via Adaptive RGB/NIR Signal Fusion", IEEE Transactions on Image Processing (TIP), DOI: 10.1109/TIP.2021.3094739, Vol. 30, pp.  6528 -- 6543, 2021. (impact factor in 2021: 11.041) [[link]](https://doi.org/10.1109/TIP.2021.3094739)
 
 ### International conferences
