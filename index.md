@@ -37,7 +37,7 @@ DENSO Corporation, Japan.
 
 ### Journals
 
-* **Kosuke Kurihara**, Yoshihiro Maeda, Daisuke Sugimura and Takayuki Hamamoto, "Spatio-Temporal Structure Extraction of Blood Volume Pulse Using Dynamic Mode Decomposition for Heart Rate Estimation", IEEE Access, DOI: 10.1109/ACCESS.2023.3284465,  Vol. 11, pp. 59081--59096, 2023. (impact factor in 2022: 3.476) [[link]](https://doi.org/10.1109/access.2023.3284465)
+* **Kosuke Kurihara**, Yoshihiro Maeda, Daisuke Sugimura and Takayuki Hamamoto, "Spatio-Temporal Structure Extraction of Blood Volume Pulse Using Dynamic Mode Decomposition for Heart Rate Estimation", IEEE Access, DOI: 10.1109/ACCESS.2023.3284465,  Vol. 11, pp. 59081--59096, 2023. (impact factor in 2022: 3.9) [[link]](https://doi.org/10.1109/access.2023.3284465)
 * **Kosuke Kurihara**, Daisuke Sugimura, and Takayuki Hamamoto, "Non-Contact Heart Rate Estimation via Adaptive RGB/NIR Signal Fusion", IEEE Transactions on Image Processing (TIP), DOI: 10.1109/TIP.2021.3094739, Vol. 30, pp.  6528 -- 6543, 2021. (impact factor in 2021: 11.041) [[link]](https://doi.org/10.1109/TIP.2021.3094739)
 
 ### International conferences
@@ -47,7 +47,8 @@ DENSO Corporation, Japan.
 
 ### Domestic conferences
 
-* **栗原康佑**，前田慶博，杉村大輔，浜本隆之，"ブラインド信号源分離に基づいたRGB動画像からの脈波信号の推定"，to appear in 映像情報メディア学会年次大会，2023．
+* **栗原康佑**，前田慶博，杉村大輔，浜本隆之，"脈波の時間特性を考慮したRGB動画像からの脈波信号の分離"，to appear in 電子情報通信学会技術研究報告，Sep 2023．
+* **栗原康佑**，前田慶博，杉村大輔，浜本隆之，"ブラインド信号源分離に基づいたRGB動画像からの脈波信号の推定"，to appear in 映像情報メディア学会年次大会，22B-4，Aug. 2023．
 * **栗原康佑**，前田慶博，杉村大輔，浜本隆之，"非接触心拍数推定のための動的モード分解による時空間解析"，画像センシングシンポジウム，IS1-18，pp. 1--2，Jun. 2023．
 * 梅澤ひかる，**栗原康佑**，前田慶博，杉村大輔，福嶋慶繁，浜本隆之，"遠赤外動画像における主成分分析を用いた脈拍数推定"，画像センシングシンポジウム，IS1-19，pp. 1--2，Jun. 2023．
 * **栗原康佑**，前田慶博，杉村大輔，浜本隆之，"脈波のダイナミクスに基づいた動的モード分解による非接触心拍数推定"，電子情報通信学会技術研究報告，Vol. 123 ，No. 29，pp. 31--34，May 2023．[**（IE賞）**](https://www.ieice.org/iss/ie/jpn/index.html)
