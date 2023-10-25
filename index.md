@@ -2,7 +2,7 @@
 layout: default
 ---
 
-Ph.D. student at the [Hamamoto Laboratory](https://www.rs.tus.ac.jp/hamalab/)  
+Ph.D. student at the [Hamamoto Laboratory](https://www.rs.tus.ac.jp/hamalab/)
 Department of Electrical Engineering, Graduate School of Engineering, Tokyo University of Science, Japan
 
 [E-mail](mailto:4321701@ed.tus.ac.jp) / [LinkedIn](https://www.linkedin.com/in/kosuke-kurihara) / [Google Scholar](https://scholar.google.com/citations?user=52Q8lgcAAAAJ&hl=ja)
@@ -48,7 +48,7 @@ DENSO Corporation, Japan.
 ### Domestic conferences
 
 * **栗原康佑**，前田慶博，杉村大輔，浜本隆之，"脈波の時間特性を考慮したRGB動画像からの脈波信号の分離"，電子情報通信学会技術研究報告，Vol.  123，No. 182，pp. 18--21，Sep. 2023．[**（IE賞）**](https://www.ieice.org/iss/ie/jpn/index.html)
-* **栗原康佑**，前田慶博，杉村大輔，浜本隆之，"ブラインド信号源分離に基づいたRGB動画像からの脈波信号の推定"，映像情報メディア学会年次大会，22B-4，Aug. 2023．
+* **栗原康佑**，前田慶博，杉村大輔，浜本隆之，"ブラインド信号源分離に基づいたRGB動画像からの脈波信号の推定"，映像情報メディア学会年次大会，22B-4，Aug. 2023．[**（学生優秀発表賞）**](https://www.ite.or.jp/content/awards/)
 * **栗原康佑**，前田慶博，杉村大輔，浜本隆之，"非接触心拍数推定のための動的モード分解による時空間解析"，画像センシングシンポジウム，IS1-18，pp. 1--2，Jun. 2023．
 * 梅澤ひかる，**栗原康佑**，前田慶博，杉村大輔，福嶋慶繁，浜本隆之，"遠赤外動画像における主成分分析を用いた脈拍数推定"，画像センシングシンポジウム，IS1-19，pp. 1--2，Jun. 2023．
 * **栗原康佑**，前田慶博，杉村大輔，浜本隆之，"脈波のダイナミクスに基づいた動的モード分解による非接触心拍数推定"，電子情報通信学会技術研究報告，Vol. 123 ，No. 29，pp. 31--34，May 2023．[**（IE賞）**](https://www.ieice.org/iss/ie/jpn/index.html)
