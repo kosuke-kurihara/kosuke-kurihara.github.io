@@ -4,7 +4,7 @@ exclude:
 sass:
   style: :compressed
 remote_theme: pages-themes/primer@v0.6.0
-title: Kosuke Kurihara (栗原 康佑)
+title: Kosuke Kurihara, Ph.D. （栗原 康佑）
 plugins:
   - jekyll-seo-tag
   - jekyll-sitemap

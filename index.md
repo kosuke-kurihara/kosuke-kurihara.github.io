@@ -2,18 +2,27 @@
 layout: default
 ---
 
-Ph.D. student at the [Hamamoto Laboratory](https://www.rs.tus.ac.jp/hamalab/)
-Department of Electrical Engineering, Graduate School of Engineering, Tokyo University of Science, Japan
+Assistant professor, Faculty of Engineering, Department of Electrical Engineering, Tokyo University of Science (TUS), Tokyo, Japan
 
-[E-mail](mailto:4321701@ed.tus.ac.jp) / [LinkedIn](https://www.linkedin.com/in/kosuke-kurihara) / [Google Scholar](https://scholar.google.com/citations?user=52Q8lgcAAAAJ&hl=ja)
+東京理科大学 工学部電気工学科 助教
+
+東京理科大学 スペースシステム創造研究センター 併任
+
+[E-mail](mailto:kuriharak@rs.tus.ac.jp) / [Google Scholar](https://scholar.google.com/citations?user=52Q8lgcAAAAJ&hl=ja) / [LinkedIn](https://www.linkedin.com/in/kosuke-kurihara)
 
 ## Research Interests
 
-Image Processing, Biomedical Engineering
+Image Processing, Biosignal Processing
 
-## Education
+## Academic Degree
 
-**Ph.D., (Apr. 2021 - Current)**
+Doctor of Engineering (from Tokyo University of Science, 2024)
+<!--  -->
+<!-- 博士（工学）（東京理科大学，2024） -->
+
+## Education History
+
+**Ph.D., (Apr. 2021 - Mar. 2024)**
 Department of Electrical Engineering, Graduate School of Engineering, Tokyo University of Science, Japan.
 [(Hamamoto Lab.)](https://www.rs.tus.ac.jp/hamalab/)
 
@@ -25,9 +34,15 @@ Department of Electrical Engineering, Graduate School of Engineering, Tokyo Univ
 Department of Electrical Engineering, Faculty of Engineering, Tokyo University of Science, Japan.
 [(Hamamoto Lab.)](https://www.rs.tus.ac.jp/hamalab/)
 
-## Work Experience
+## Career History
 
-**DC2 Research Fellow (Apr. 2023 - Current)**
+**Assistant Professor (Apr. 2024 - Current)**
+Faculty of Engineering, Department of Electrical Engineering, Tokyo University of Science (TUS), Tokyo, Japan. [(Hamamoto Lab.)](https://www.rs.tus.ac.jp/hamalab/)
+
+**Researcher (Apr. 2024 - Current)**
+Research Center for Space System Innovation, Tokyo University of Science (TUS), Tokyo, Japan.
+
+**Research Fellow (DC2) (Apr. 2023 - Mar. 2024)**
 Japan Society for the Promotion of Science.
 
 **Software Engineer (Apr. 2020 - Feb. 2022)**
@@ -40,12 +55,12 @@ DENSO Corporation, Japan.
 * **Kosuke Kurihara**, Yoshihiro Maeda, Daisuke Sugimura and Takayuki Hamamoto, "Spatio-Temporal Structure Extraction of Blood Volume Pulse Using Dynamic Mode Decomposition for Heart Rate Estimation", IEEE Access, DOI: 10.1109/ACCESS.2023.3284465,  Vol. 11, pp. 59081--59096, 2023. (impact factor in 2022: 3.9) [[link]](https://doi.org/10.1109/access.2023.3284465)
 * **Kosuke Kurihara**, Daisuke Sugimura, and Takayuki Hamamoto, "Non-Contact Heart Rate Estimation via Adaptive RGB/NIR Signal Fusion", IEEE Transactions on Image Processing (TIP), DOI: 10.1109/TIP.2021.3094739, Vol. 30, pp.  6528 -- 6543, 2021. (impact factor in 2021: 11.041) [[link]](https://doi.org/10.1109/TIP.2021.3094739)
 
-### International conferences
+### International Conferences
 
 * **Kosuke Kurihara**, Yoshihiro Maeda, Daisuke Sugimura, and Takayuki Hamamoto, "Blood Volume Pulse Signal Extraction based on Spatio-Temporal Low-Rank Approximation for Heart Rate Estimation", to appear in IEEE International Conference on Visual Communications and Image Processing (VCIP), pp. 1 -- 5, Dec. 2022. (online; oral)
 * **Kosuke Kurihara**, Daisuke Sugimura, and Takayuki Hamamoto, "Adaptive Fusion of RGB/NIR Signals based on Face/Background Cross-spectral Analysis for Heart Rate Estimation", in Proc. of IEEE International Conference on Image Processing (ICIP), pp. 4534 -- 4538, Sep. 2019. (poster) [**(top 10% paper)**](https://www.2019.ieeeicip.org/2019.ieeeicip.org/indexfade.html?action=page3&id=9)
 
-### Domestic conferences
+### Domestic Conferences
 
 * 黒岩天心，**栗原康佑**，前田慶博，杉村大輔，浜本隆之，"画素毎の時間変動に基づく重みづけによる遠赤外動画像のぼけ除去"，電子情報通信学会総合大会，D-11A-16，pp. 1，Mar. 2024．
 * **栗原康佑**，前田慶博，杉村大輔，浜本隆之，"脈波の時間特性を考慮したRGB動画像からの脈波信号の分離"，電子情報通信学会技術研究報告，Vol.  123，No. 182，pp. 18--21，Sep. 2023．[**（IE賞）**](https://www.ieice.org/iss/ie/jpn/index.html)
@@ -62,8 +77,17 @@ DENSO Corporation, Japan.
 
 ### MISC.
 
+* 前田慶博，梅澤ひかる，**栗原康佑**，浜本隆之，杉村大輔，福嶋慶繁，"遠赤外動画像における主成分分析を用いた脈拍数推定手法の検討"，画像ラボ，日本工業出版，Vol. 35，No. 3，pp. 46--49，2024．
 * **栗原康佑**，前田慶博，杉村大輔，浜本隆之，"RGB/NIR撮像と脈波の特性を考慮した時空間解析に基づく環境光変動に頑健な心拍数推定"，東京理科大学スペースシステム創造研究センター 第5回宇宙シンポジウム，Mar. 2024．
 * **栗原康佑**，前田慶博，杉村大輔，浜本隆之，"脈波の時空間特性を活用した動的モード分解による非接触心拍数推定"，東京理科大学スペースシステム創造研究センター 第4回宇宙シンポジウム，Mar. 2023．
 * **栗原康佑**，"マルチスペクトル映像解析に基づく非接触バイタルセンシング"，第 198 回次世代画像入力ビジョンシステム部会定例会，May 2022．
 * **栗原康佑**，前田慶博，杉村大輔，浜本隆之，"RGB/NIR カメラを用いた環境光変動に頑健な心拍数推定"，東京理科大学スペースシステム創造研究センター 第3回宇宙シンポジウム，Mar. 2022．
 * **栗原康佑**，杉村大輔，浜本隆之，"RGB/NIRカメラを用いた環境光変動に頑健な心拍数推定"，東京理科大学スペース・コロニー研究センター 2018年度成果報告会，Mar. 2019．
+
+### Lectures
+
+* コンピュータ管理：東京理科大学工学部電気工学科（2024-）
+* プログラミングとアルゴリズム１：東京理科大学工学部電気工学科（2024-）
+* 物理学実験：東京理科大学工学部電気工学科（2024-）
+* 文献講読：東京理科大学工学部電気工学科（2024-）
+* 卒業研究：東京理科大学工学部電気工学科（2024-）
