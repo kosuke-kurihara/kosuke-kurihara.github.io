@@ -6,7 +6,7 @@ Assistant professor, Faculty of Engineering, Department of Electrical Engineerin
 
 東京理科大学 工学部電気工学科 助教
 
-東京理科大学 スペースシステム創造研究センター 併任
+東京理科大学 スペースシステム創造研究センター 兼任
 
 [E-mail](mailto:kuriharak@rs.tus.ac.jp) / [Google Scholar](https://scholar.google.com/citations?user=52Q8lgcAAAAJ&hl=ja) / [LinkedIn](https://www.linkedin.com/in/kosuke-kurihara)
 
@@ -17,8 +17,6 @@ Image Processing, Biosignal Processing
 ## Academic Degree
 
 Doctor of Engineering (from Tokyo University of Science, 2024)
-<!--  -->
-<!-- 博士（工学）（東京理科大学，2024） -->
 
 ## Education History
 
