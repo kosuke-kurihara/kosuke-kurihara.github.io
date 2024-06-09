@@ -55,7 +55,8 @@ DENSO Corporation, Japan.
 
 ### International Conferences
 
-* **Kosuke Kurihara**, Yoshihiro Maeda, Daisuke Sugimura, and Takayuki Hamamoto, "Blood Volume Pulse Signal Extraction based on Spatio-Temporal Low-Rank Approximation for Heart Rate Estimation", to appear in IEEE International Conference on Visual Communications and Image Processing (VCIP), pp. 1 -- 5, Dec. 2022. (online; oral)
+* **Kosuke Kurihara**, Yoshihiro Maeda, Daisuke Sugimura, and Takayuki Hamamoto, "Physiological Modeling With Multispectral Imaging for Heart Rate Estimation", to appear in IEEE International Conference on Image Processing (ICIP), Oct. 2024.
+* **Kosuke Kurihara**, Yoshihiro Maeda, Daisuke Sugimura, and Takayuki Hamamoto, "Blood Volume Pulse Signal Extraction based on Spatio-Temporal Low-Rank Approximation for Heart Rate Estimation", in Proc. of IEEE International Conference on Visual Communications and Image Processing (VCIP), pp. 1 -- 5, Dec. 2022. (online; oral)
 * **Kosuke Kurihara**, Daisuke Sugimura, and Takayuki Hamamoto, "Adaptive Fusion of RGB/NIR Signals based on Face/Background Cross-spectral Analysis for Heart Rate Estimation", in Proc. of IEEE International Conference on Image Processing (ICIP), pp. 4534 -- 4538, Sep. 2019. (poster) [**(top 10% paper)**](https://www.2019.ieeeicip.org/2019.ieeeicip.org/indexfade.html?action=page3&id=9)
 
 ### Domestic Conferences
@@ -85,7 +86,7 @@ DENSO Corporation, Japan.
 * **栗原康佑**，杉村大輔，浜本隆之，"RGB/NIRカメラを用いた環境光変動に頑健な心拍数推定"，東京理科大学スペース・コロニー研究センター 2018年度成果報告会，Mar. 2019．
 
 ## Lectures
-
+* マルチメディア（演習付）：津田塾大学学芸学部情報科学科（2024-）
 * コンピュータ管理：東京理科大学工学部電気工学科（2024-）
 * プログラミングとアルゴリズム１：東京理科大学工学部電気工学科（2024-）
 * 物理学実験：東京理科大学工学部電気工学科（2024-）
