@@ -4,9 +4,9 @@ layout: default
 
 Assistant professor, Faculty of Engineering, Department of Electrical Engineering, Tokyo University of Science (TUS), Tokyo, Japan
 
-東京理科大学 工学部電気工学科 助教
+東京理科大学 工学部電気工学科 助教（スペースシステム創造研究センター 兼任）
 
-東京理科大学 スペースシステム創造研究センター 兼任
+津田塾大学 非常勤講師
 
 [E-mail](mailto:kuriharak@rs.tus.ac.jp) / [Google Scholar](https://scholar.google.com/citations?user=52Q8lgcAAAAJ&hl=ja) / [LinkedIn](https://www.linkedin.com/in/kosuke-kurihara)
 
@@ -61,6 +61,9 @@ DENSO Corporation, Japan.
 
 ### Domestic Conferences
 
+* 梅澤ひかる，**栗原康佑**，前田慶博，杉村大輔，福嶋慶繁，浜本隆之，"遠赤外カメラを用いた人物領域に非依存な非接触脈拍推定"，映像情報メディア学会年次大会，23C-1，pp. 1--2，Aug. 2024．
+* 水野辰彦，前田慶博，**栗原康佑**，浜本隆之，"水の吸光特性を考慮した深層展開による水中画像鮮明化"，映像情報メディア学会年次大会，12A-2，pp. 1--2，Aug. 2024．
+* 佐々木晴香，前田慶博，杉村大輔，**栗原康佑**，浜本隆之，"表情の共起性と情景特徴を考慮した集団凝集性推定"，映像情報メディア学会年次大会，11A-1，pp. 1--2，Aug. 2024．
 * 府川紘也，**栗原康佑**，前田慶博，佐藤俊一，浜本隆之，"単一光子検出型撮像方式における時空間情報を活用した動き推定"，映像情報メディア学会技術研究報告，pp. 1--4，June 2024．
 * 黒岩天心，**栗原康佑**，前田慶博，杉村大輔，浜本隆之，"画素毎の時間変動に基づく重みづけによる遠赤外動画像のぼけ除去"，電子情報通信学会総合大会，D-11A-16，pp. 1，Mar. 2024．
 * **栗原康佑**，前田慶博，杉村大輔，浜本隆之，"脈波の時間特性を考慮したRGB動画像からの脈波信号の分離"，電子情報通信学会技術研究報告，Vol.  123，No. 182，pp. 18--21，Sep. 2023．[**（IE賞）**](https://www.ieice.org/iss/ie/jpn/index.html)
