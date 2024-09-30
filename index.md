@@ -55,9 +55,10 @@ DENSO Corporation, Japan.
 
 ### International Conferences
 
+* Hiroya Fukawa, **Kosuke Kurihara**, Yoshihiro Maeda, Shunichi Sato, and Takayuki Hamamoto, "Motion Estimation for Quanta Image Sensors Using Spatio-Temporal Priors", to appear in IEEE International Conference on Visual Communications and Image Processing (VCIP), Dec. 2024.
 * **Kosuke Kurihara**, Yoshihiro Maeda, Daisuke Sugimura, and Takayuki Hamamoto, "Physiological Modeling With Multispectral Imaging for Heart Rate Estimation", to appear in IEEE International Conference on Image Processing (ICIP), Oct. 2024.
-* **Kosuke Kurihara**, Yoshihiro Maeda, Daisuke Sugimura, and Takayuki Hamamoto, "Blood Volume Pulse Signal Extraction based on Spatio-Temporal Low-Rank Approximation for Heart Rate Estimation", in Proc. of IEEE International Conference on Visual Communications and Image Processing (VCIP), pp. 1 -- 5, Dec. 2022. (online; oral)
-* **Kosuke Kurihara**, Daisuke Sugimura, and Takayuki Hamamoto, "Adaptive Fusion of RGB/NIR Signals based on Face/Background Cross-spectral Analysis for Heart Rate Estimation", in Proc. of IEEE International Conference on Image Processing (ICIP), pp. 4534 -- 4538, Sep. 2019. (poster) [**(top 10% paper)**](https://www.2019.ieeeicip.org/2019.ieeeicip.org/indexfade.html?action=page3&id=9)
+* **Kosuke Kurihara**, Yoshihiro Maeda, Daisuke Sugimura, and Takayuki Hamamoto, "Blood Volume Pulse Signal Extraction based on Spatio-Temporal Low-Rank Approximation for Heart Rate Estimation", in Proc. of IEEE International Conference on Visual Communications and Image Processing (VCIP), pp. 1 -- 5, Dec. 2022. (online; oral) [[slide]](https://speakerdeck.com/kuriharak/vcip-2022)
+* **Kosuke Kurihara**, Daisuke Sugimura, and Takayuki Hamamoto, "Adaptive Fusion of RGB/NIR Signals based on Face/Background Cross-spectral Analysis for Heart Rate Estimation", in Proc. of IEEE International Conference on Image Processing (ICIP), pp. 4534 -- 4538, Sep. 2019. (poster) [**(top 10% paper)**](https://www.2019.ieeeicip.org/2019.ieeeicip.org/indexfade.html?action=page3&id=9) [[poster]](https://speakerdeck.com/kuriharak/icip-2019)
 
 ### Domestic Conferences
 
@@ -66,20 +67,21 @@ DENSO Corporation, Japan.
 * 佐々木晴香，前田慶博，杉村大輔，**栗原康佑**，浜本隆之，"表情の共起性と情景特徴を考慮した集団凝集性推定"，映像情報メディア学会年次大会，11A-1，pp. 1--2，Aug. 2024．
 * 府川紘也，**栗原康佑**，前田慶博，佐藤俊一，浜本隆之，"単一光子検出型撮像方式における時空間情報を活用した動き推定"，映像情報メディア学会技術研究報告，pp. 1--4，June 2024．
 * 黒岩天心，**栗原康佑**，前田慶博，杉村大輔，浜本隆之，"画素毎の時間変動に基づく重みづけによる遠赤外動画像のぼけ除去"，電子情報通信学会総合大会，D-11A-16，pp. 1，Mar. 2024．
-* **栗原康佑**，前田慶博，杉村大輔，浜本隆之，"脈波の時間特性を考慮したRGB動画像からの脈波信号の分離"，電子情報通信学会技術研究報告，Vol.  123，No. 182，pp. 18--21，Sep. 2023．[**（IE賞）**](https://www.ieice.org/iss/ie/jpn/index.html)
+* **栗原康佑**，前田慶博，杉村大輔，浜本隆之，"脈波の時間特性を考慮したRGB動画像からの脈波信号の分離"，電子情報通信学会技術研究報告，Vol.  123，No. 182，pp. 18--21，Sep. 2023．[**（IE賞）**](https://www.ieice.org/iss/ie/jpn/index.html) [[slide]](https://speakerdeck.com/kuriharak/ie-osaka)
 * **栗原康佑**，前田慶博，杉村大輔，浜本隆之，"ブラインド信号源分離に基づいたRGB動画像からの脈波信号の推定"，映像情報メディア学会年次大会，22B-4，pp. 1--2，Aug. 2023．[**（学生優秀発表賞）**](https://www.ite.or.jp/content/awards/)
 * **栗原康佑**，前田慶博，杉村大輔，浜本隆之，"非接触心拍数推定のための動的モード分解による時空間解析"，画像センシングシンポジウム，IS1-18，pp. 1--2，Jun. 2023．
 * 梅澤ひかる，**栗原康佑**，前田慶博，杉村大輔，福嶋慶繁，浜本隆之，"遠赤外動画像における主成分分析を用いた脈拍数推定"，画像センシングシンポジウム，IS1-19，pp. 1--2，Jun. 2023．
-* **栗原康佑**，前田慶博，杉村大輔，浜本隆之，"脈波のダイナミクスに基づいた動的モード分解による非接触心拍数推定"，電子情報通信学会技術研究報告，Vol. 123 ，No. 29，pp. 31--34，May 2023．[**（IE賞）**](https://www.ieice.org/iss/ie/jpn/index.html)
+* **栗原康佑**，前田慶博，杉村大輔，浜本隆之，"脈波のダイナミクスに基づいた動的モード分解による非接触心拍数推定"，電子情報通信学会技術研究報告，Vol. 123 ，No. 29，pp. 31--34，May 2023．[**（IE賞）**](https://www.ieice.org/iss/ie/jpn/index.html) [[slide]](https://speakerdeck.com/kuriharak/ie-mie)
 * 梅澤ひかる，**栗原康佑**，前田慶博，杉村大輔，福嶋慶繁，浜本隆之，"遠赤外線カメラを用いた人体の熱放射に基づく非接触脈拍数推定"，映像情報メディア学会技術研究報告，pp. 30--33，May 2023．
 * **栗原康佑**，前田慶博，杉村大輔，浜本隆之，"脈波の時空間特性を考慮した動的モード分解に基づく非接触心拍数推定"，映像メディア処理シンポジウム，P3-19，pp. 1--2，Dec. 2022．
 * **栗原康佑**，前田慶博，杉村大輔，浜本隆之，"非接触心拍数計測のための時空間低ランク近似に基づく脈波推定"，画像の認識・理解シンポジウム，IS2-79，pp. 1--4，July 2022．
-* **栗原康佑**，杉村大輔，浜本隆之，"RGB/NIR撮像に基づく照明変動・人物の動きに頑健な心拍数推定"，電子情報通信学会技術研究報告，Vol. 119，No. 456，pp. 47--50, May 2020．
+* **栗原康佑**，杉村大輔，浜本隆之，"RGB/NIR撮像に基づく照明変動・人物の動きに頑健な心拍数推定"，電子情報通信学会技術研究報告，Vol. 119，No. 456，pp. 47--50, May 2020．[[slide]](https://speakerdeck.com/kuriharak/ie-kyusyu-6f0337e4-715a-4ffd-9fb0-de301830a2cf)
 * **栗原康佑**，杉村大輔，浜本隆之，"RGB/NIR信号の選択的利用による照明変動に頑健な心拍数推定"，映像情報メディア学会年次大会，11B-4，pp. 1–-2，Aug. 2019．
-* **栗原康佑**，杉村大輔，浜本隆之，"RGB/NIRカメラを用いた照明変動に頑健な心拍数推定"，電子情報通信学会技術研究報告，Vol. 118，No. 501，pp. 193--196，Mar. 2019．
+* **栗原康佑**，杉村大輔，浜本隆之，"RGB/NIRカメラを用いた照明変動に頑健な心拍数推定"，電子情報通信学会技術研究報告，Vol. 118，No. 501，pp. 193--196，Mar. 2019．[[slide]](https://speakerdeck.com/kuriharak/ie-kagoshima)
 
 ### MISC.
 
+* **栗原康佑**，"脈波の時空間特性に基づく非接触型心拍数推定に関する研究"，東京理科大学 理窓博士会 第62回学位（博士）取得者記念講演会, Sep. 2024.
 * **栗原康佑**，前田慶博，杉村大輔，浜本隆之，"環境光が変動する場面でも脈波信号と心拍数を推定できる信号抽出技術", 生体センシング技術の開発とヘルスケア、遠隔診断への応用, 技術情報協会，pp. 166--177, 2024.
 * 前田慶博，梅澤ひかる，**栗原康佑**，浜本隆之，杉村大輔，福嶋慶繁，"遠赤外動画像における主成分分析を用いた脈拍数推定手法の検討"，画像ラボ，日本工業出版，Vol. 35，No. 3，pp. 46--49，2024．
 * **栗原康佑**，前田慶博，杉村大輔，浜本隆之，"RGB/NIR撮像と脈波の特性を考慮した時空間解析に基づく環境光変動に頑健な心拍数推定"，東京理科大学スペースシステム創造研究センター 第5回宇宙シンポジウム，Mar. 2024．
