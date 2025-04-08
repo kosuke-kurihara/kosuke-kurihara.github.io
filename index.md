@@ -6,8 +6,6 @@ Assistant professor, Faculty of Engineering, Department of Electrical Engineerin
 
 東京理科大学 工学部電気工学科 助教（スペースシステム創造研究センター 兼任）
 
-津田塾大学 非常勤講師
-
 [E-mail](mailto:kuriharak@rs.tus.ac.jp) / [Google Scholar](https://scholar.google.com/citations?user=52Q8lgcAAAAJ&hl=ja) / [LinkedIn](https://www.linkedin.com/in/kosuke-kurihara)
 
 ## Research Interests
@@ -40,6 +38,9 @@ Faculty of Engineering, Department of Electrical Engineering, Tokyo University o
 **Researcher (Apr. 2024 - Current)**
 Research Center for Space System Innovation, Tokyo University of Science (TUS), Tokyo, Japan.
 
+**Part-time Lecturer (Apr. 2024 - Mar. 2025)**
+Tsuda University, Tokyo, Japan.
+
 **Research Fellow (DC2) (Apr. 2023 - Mar. 2024)**
 Japan Society for the Promotion of Science.
 
@@ -55,7 +56,8 @@ DENSO Corporation, Japan.
 
 ### International Conferences
 
-* Hiroya Fukawa, **Kosuke Kurihara**, Yoshihiro Maeda, Shunichi Sato, and Takayuki Hamamoto, "Motion Estimation for Quanta Image Sensors Using Spatio-Temporal Priors", in Proc. of IEEE International Conference on Visual Communications and Image Processing (VCIP), Dec. 2024. (oral)
+* Shun Muramatsu, **Kosuke Kurihara**, "Remote Photoplethysmography-Triggered Signal Averaging for Non-Contact Heart Sound Measurement", to appear in 47th Annual International Conference of the IEEE Engineering in Medicine and Biology Society (EMBC).
+* Hiroya Fukawa, **Kosuke Kurihara**, Yoshihiro Maeda, Shunichi Sato, and Takayuki Hamamoto, "Motion Estimation for Quanta Image Sensors Using Spatio-Temporal Priors", in Proc. of IEEE International Conference on Visual Communications and Image Processing (VCIP), pp. 1 --5, Dec. 2024. (oral)
 * **Kosuke Kurihara**, Yoshihiro Maeda, Daisuke Sugimura, and Takayuki Hamamoto, "Physiological Modeling With Multispectral Imaging for Heart Rate Estimation", in Proc. of IEEE International Conference on Image Processing (ICIP), pp. 2957 -- 2963, Oct. 2024. (oral) [[slide]](https://speakerdeck.com/kuriharak/physiological-modeling-with-multispectral-imaging-for-heart-rate-estimation)
 * **Kosuke Kurihara**, Yoshihiro Maeda, Daisuke Sugimura, and Takayuki Hamamoto, "Blood Volume Pulse Signal Extraction based on Spatio-Temporal Low-Rank Approximation for Heart Rate Estimation", in Proc. of IEEE International Conference on Visual Communications and Image Processing (VCIP), pp. 1 -- 5, Dec. 2022. (online; oral) [[slide]](https://speakerdeck.com/kuriharak/vcip-2022)
 * **Kosuke Kurihara**, Daisuke Sugimura, and Takayuki Hamamoto, "Adaptive Fusion of RGB/NIR Signals based on Face/Background Cross-spectral Analysis for Heart Rate Estimation", in Proc. of IEEE International Conference on Image Processing (ICIP), pp. 4534 -- 4538, Sep. 2019. (poster) [**(top 10% paper)**](https://www.2019.ieeeicip.org/2019.ieeeicip.org/indexfade.html?action=page3&id=9) [[poster]](https://speakerdeck.com/kuriharak/icip-2019)
@@ -100,15 +102,25 @@ DENSO Corporation, Japan.
 
 ## Grants
 
+* 日本学術振興会 科研費 若手研究 **（代表者）**，"物理モデルとデータ駆動科学が協調した時空間イベントセンシングに基づく振動計測"，Apr. 2025 - Mar. 2027.
 * 公共財団法人 精密測定技術振興財団 2024年度助成金（共同研究者），"マイクアレイ-カメラ融合による心音の非接触精密計測手法の開発"，Jan. 2025 - Mar. 2026.
 * 日本学術振興会 科研費 研究活動スタート支援 **（代表者）**，"データ駆動型モデリングと医学知識が協調した非接触脈波伝播計測"，July. 2024 - Mar. 2026.
 * 日本学術振興会 科研費 特別研究員奨励費 **（代表者）**，"時間－空間－波長の多次元情報センシングに基づく非接触脈波計測"，Apr. 2023 - Mar. 2025.
 
+## Professional Membership
+
+* IEEE
+* IEICE（電子情報通信学会）
+
+## Academic Activities
+
+運営委員，第31回画像センシングシンポジウム(SSII2025)庶務会場部会
+
 ## Lectures
 
-* マルチメディア（演習付）：津田塾大学学芸学部情報科学科（2024-）
 * コンピュータ管理：東京理科大学工学部電気工学科（2024-）
 * プログラミングとアルゴリズム１：東京理科大学工学部電気工学科（2024-）
 * 物理学実験：東京理科大学工学部電気工学科（2024-）
 * 文献講読：東京理科大学工学部電気工学科（2024-）
 * 卒業研究：東京理科大学工学部電気工学科（2024-）
+* マルチメディア（演習付）：津田塾大学学芸学部情報科学科（2024）
