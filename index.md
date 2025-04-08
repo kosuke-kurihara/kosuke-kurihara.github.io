@@ -56,7 +56,7 @@ DENSO Corporation, Japan.
 
 ### International Conferences
 
-* Shun Muramatsu, **Kosuke Kurihara**, "Remote Photoplethysmography-Triggered Signal Averaging for Non-Contact Heart Sound Measurement", to appear in 47th Annual International Conference of the IEEE Engineering in Medicine and Biology Society (EMBC).
+* Shun Muramatsu, **Kosuke Kurihara**, "Remote Photoplethysmography-Triggered Signal Averaging for Non-Contact Heart Sound Measurement", to appear in 47th Annual International Conference of the IEEE Engineering in Medicine and Biology Society (EMBC), July, 2025.
 * Hiroya Fukawa, **Kosuke Kurihara**, Yoshihiro Maeda, Shunichi Sato, and Takayuki Hamamoto, "Motion Estimation for Quanta Image Sensors Using Spatio-Temporal Priors", in Proc. of IEEE International Conference on Visual Communications and Image Processing (VCIP), pp. 1 --5, Dec. 2024. (oral)
 * **Kosuke Kurihara**, Yoshihiro Maeda, Daisuke Sugimura, and Takayuki Hamamoto, "Physiological Modeling With Multispectral Imaging for Heart Rate Estimation", in Proc. of IEEE International Conference on Image Processing (ICIP), pp. 2957 -- 2963, Oct. 2024. (oral) [[slide]](https://speakerdeck.com/kuriharak/physiological-modeling-with-multispectral-imaging-for-heart-rate-estimation)
 * **Kosuke Kurihara**, Yoshihiro Maeda, Daisuke Sugimura, and Takayuki Hamamoto, "Blood Volume Pulse Signal Extraction based on Spatio-Temporal Low-Rank Approximation for Heart Rate Estimation", in Proc. of IEEE International Conference on Visual Communications and Image Processing (VCIP), pp. 1 -- 5, Dec. 2022. (online; oral) [[slide]](https://speakerdeck.com/kuriharak/vcip-2022)
