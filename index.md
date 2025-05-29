@@ -8,15 +8,15 @@ Assistant professor, Faculty of Engineering, Department of Electrical Engineerin
 
 [E-mail](mailto:kuriharak@rs.tus.ac.jp) / [Google Scholar](https://scholar.google.com/citations?user=52Q8lgcAAAAJ&hl=ja) / [LinkedIn](https://www.linkedin.com/in/kosuke-kurihara)
 
-## Research Interests
+## Research interests
 
 * Image Processing, Biosignal Processing
 
-## Academic Degree
+## Academic degree
 
 * Doctor of Engineering (from Tokyo University of Science, 2024)
 
-## Education History
+## Education history
 
 * **Ph.D., (Apr. 2021 - Mar. 2024)**
 Department of Electrical Engineering, Graduate School of Engineering, Tokyo University of Science, Japan.
@@ -30,21 +30,21 @@ Department of Electrical Engineering, Graduate School of Engineering, Tokyo Univ
 Department of Electrical Engineering, Faculty of Engineering, Tokyo University of Science, Japan.
 [(Hamamoto Lab.)](https://www.rs.tus.ac.jp/hamalab/)
 
-## Career History
+## Career history
 
-* **Assistant Professor (Apr. 2024 - Current)**
+* **Assistant professor (Apr. 2024 - Current)**
 Faculty of Engineering, Department of Electrical Engineering, Tokyo University of Science (TUS), Tokyo, Japan. [(Hamamoto Lab.)](https://www.rs.tus.ac.jp/hamalab/)
 
 * **Researcher (Apr. 2024 - Current)**
 Research Center for Space System Innovation, Tokyo University of Science (TUS), Tokyo, Japan.
 
-* **Part-time Lecturer (Apr. 2024 - Mar. 2025)**
+* **Part-time lecturer (Apr. 2024 - Mar. 2025)**
 Tsuda University, Tokyo, Japan.
 
-* **Research Fellow (DC2) (Apr. 2023 - Mar. 2024)**
+* **Research fellow (DC2) (Apr. 2023 - Mar. 2024)**
 Japan Society for the Promotion of Science.
 
-* **Software Engineer (Apr. 2020 - Feb. 2022)**
+* **Software engineer (Apr. 2020 - Feb. 2022)**
 DENSO Corporation, Japan.
 
 ## Publications
@@ -55,7 +55,7 @@ DENSO Corporation, Japan.
 * **Kosuke Kurihara**, Yoshihiro Maeda, Daisuke Sugimura, and Takayuki Hamamoto, "Spatio-Temporal Structure Extraction of Blood Volume Pulse Using Dynamic Mode Decomposition for Heart Rate Estimation", IEEE Access, DOI: 10.1109/ACCESS.2023.3284465,  Vol. 11, pp. 59081--59096, 2023. (impact factor in 2022: 3.9) [[link]](https://doi.org/10.1109/access.2023.3284465)
 * **Kosuke Kurihara**, Daisuke Sugimura, and Takayuki Hamamoto, "Non-Contact Heart Rate Estimation via Adaptive RGB/NIR Signal Fusion", IEEE Transactions on Image Processing (TIP), DOI: 10.1109/TIP.2021.3094739, Vol. 30, pp.  6528 -- 6543, 2021. (impact factor in 2021: 11.041) [[link]](https://doi.org/10.1109/TIP.2021.3094739)
 
-### International Conferences
+### International conferences
 
 * Wataru Otobe, **Kosuke Kurihara**, Yoshihiro Maeda, and Takayuki Hamamoto, "Deep Unfolding-based Image Reconstruction for Quanta Image Sensors", to appear in IEEE International Conference on Image Processing (ICIP), Sep. 2025.
 * Shun Muramatsu, **Kosuke Kurihara**, "Remote Photoplethysmography-Triggered Signal Averaging for Non-Contact Heart Sound Measurement", to appear in 47th Annual International Conference of the IEEE Engineering in Medicine and Biology Society (EMBC), July 2025.
@@ -64,7 +64,7 @@ DENSO Corporation, Japan.
 * **Kosuke Kurihara**, Yoshihiro Maeda, Daisuke Sugimura, and Takayuki Hamamoto, "Blood Volume Pulse Signal Extraction based on Spatio-Temporal Low-Rank Approximation for Heart Rate Estimation", in Proc. of IEEE International Conference on Visual Communications and Image Processing (VCIP), pp. 1 -- 5, Dec. 2022. (online; oral) [[slide]](https://speakerdeck.com/kuriharak/vcip-2022)
 * **Kosuke Kurihara**, Daisuke Sugimura, and Takayuki Hamamoto, "Adaptive Fusion of RGB/NIR Signals based on Face/Background Cross-spectral Analysis for Heart Rate Estimation", in Proc. of IEEE International Conference on Image Processing (ICIP), pp. 4534 -- 4538, Sep. 2019. (poster) [**(top 10% paper)**](https://www.2019.ieeeicip.org/2019.ieeeicip.org/indexfade.html?action=page3&id=9) [[poster]](https://speakerdeck.com/kuriharak/icip-2019)
 
-### Domestic Conferences
+### Domestic conferences
 
 * 黒岩天心，**栗原康佑**，前田慶博，杉村大輔，浜本隆之，"熱の時間遷移モデルに基づいた深層展開による遠赤外画像のボケ除去"，電子情報通信学会技術研究報告，vol. 125，no. 55， pp. 1--2，May 2025．
 * 岡本日向，**栗原康佑**，前田慶博，浜本隆之，"主成分分析を用いたイベントカメラによる振動計測"，画像センシングシンポジウム，IS1-36，pp. 1--2，May 2025．
@@ -113,12 +113,12 @@ DENSO Corporation, Japan.
 * 日本学術振興会 科研費 研究活動スタート支援，"データ駆動型モデリングと医学知識が協調した非接触脈波伝播計測"，**（代表者）**（2024年度～2025年度）
 * 日本学術振興会 科研費 特別研究員奨励費，"時間－空間－波長の多次元情報センシングに基づく非接触脈波計測"，**（代表者）**（2023年度～2024年度）
 
-## Professional Membership
+## Professional membership
 
 * IEEE
 * IEICE（電子情報通信学会）
 
-## Academic Activities
+## Academic activities
 
 * 運営委員，第31回画像センシングシンポジウム（SSII2025）庶務会場部会
 
