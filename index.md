@@ -51,12 +51,14 @@ DENSO Corporation, Japan.
 
 ### Journals
 
-* **Kosuke Kurihara**, Yoshihiro Maeda, Daisuke Sugimura and Takayuki Hamamoto, "Spatio-Temporal Structure Extraction of Blood Volume Pulse Using Dynamic Mode Decomposition for Heart Rate Estimation", IEEE Access, DOI: 10.1109/ACCESS.2023.3284465,  Vol. 11, pp. 59081--59096, 2023. (impact factor in 2022: 3.9) [[link]](https://doi.org/10.1109/access.2023.3284465)
+* **Kosuke Kurihara**, Yoshihiro Maeda, Daisuke Sugimura, and Takayuki Hamamoto, "Unified Physiological and Illumination Modeling for Heart Rate Estimation Using Dynamic Mode Decomposition and RGB/NIR Sensor", to appear in IEICE Trans. Information and Systems, DOI:,  Vol. E109-D, pp. --, 2025. 
+* **Kosuke Kurihara**, Yoshihiro Maeda, Daisuke Sugimura, and Takayuki Hamamoto, "Spatio-Temporal Structure Extraction of Blood Volume Pulse Using Dynamic Mode Decomposition for Heart Rate Estimation", IEEE Access, DOI: 10.1109/ACCESS.2023.3284465,  Vol. 11, pp. 59081--59096, 2023. (impact factor in 2022: 3.9) [[link]](https://doi.org/10.1109/access.2023.3284465)
 * **Kosuke Kurihara**, Daisuke Sugimura, and Takayuki Hamamoto, "Non-Contact Heart Rate Estimation via Adaptive RGB/NIR Signal Fusion", IEEE Transactions on Image Processing (TIP), DOI: 10.1109/TIP.2021.3094739, Vol. 30, pp.  6528 -- 6543, 2021. (impact factor in 2021: 11.041) [[link]](https://doi.org/10.1109/TIP.2021.3094739)
 
 ### International Conferences
 
-* Shun Muramatsu, **Kosuke Kurihara**, "Remote Photoplethysmography-Triggered Signal Averaging for Non-Contact Heart Sound Measurement", to appear in 47th Annual International Conference of the IEEE Engineering in Medicine and Biology Society (EMBC), July, 2025.
+* Wataru Otobe, **Kosuke Kurihara**, Yoshihiro Maeda, and Takayuki Hamamoto, "Deep Unfolding-based Image Reconstruction for Quanta Image Sensors", to appear in IEEE International Conference on Image Processing (ICIP), Sep. 2025.
+* Shun Muramatsu, **Kosuke Kurihara**, "Remote Photoplethysmography-Triggered Signal Averaging for Non-Contact Heart Sound Measurement", to appear in 47th Annual International Conference of the IEEE Engineering in Medicine and Biology Society (EMBC), July 2025.
 * Hiroya Fukawa, **Kosuke Kurihara**, Yoshihiro Maeda, Shunichi Sato, and Takayuki Hamamoto, "Motion Estimation for Quanta Image Sensors Using Spatio-Temporal Priors", in Proc. of IEEE International Conference on Visual Communications and Image Processing (VCIP), pp. 1 --5, Dec. 2024. (oral)
 * **Kosuke Kurihara**, Yoshihiro Maeda, Daisuke Sugimura, and Takayuki Hamamoto, "Physiological Modeling With Multispectral Imaging for Heart Rate Estimation", in Proc. of IEEE International Conference on Image Processing (ICIP), pp. 2957 -- 2963, Oct. 2024. (oral) [[slide]](https://speakerdeck.com/kuriharak/physiological-modeling-with-multispectral-imaging-for-heart-rate-estimation)
 * **Kosuke Kurihara**, Yoshihiro Maeda, Daisuke Sugimura, and Takayuki Hamamoto, "Blood Volume Pulse Signal Extraction based on Spatio-Temporal Low-Rank Approximation for Heart Rate Estimation", in Proc. of IEEE International Conference on Visual Communications and Image Processing (VCIP), pp. 1 -- 5, Dec. 2022. (online; oral) [[slide]](https://speakerdeck.com/kuriharak/vcip-2022)
@@ -64,6 +66,9 @@ DENSO Corporation, Japan.
 
 ### Domestic Conferences
 
+* 黒岩天心，**栗原康佑**，前田慶博，杉村大輔，浜本隆之，"熱の時間遷移モデルに基づいた深層展開による遠赤外画像のボケ除去"，電子情報通信学会技術研究報告，vol. 125，no. 55， pp. 1--2，May 2025．
+* 岡本日向，**栗原康佑**，前田慶博，浜本隆之，"主成分分析を用いたイベントカメラによる振動計測"，画像センシングシンポジウム，IS1-36，pp. 1--2，May 2025．
+* 藤代能輝，**栗原康佑**，浜本隆之，前田慶博，"単一光子検出型撮像方式におけるバイナリテンソル分解を用いた画像再構成の検討"，電子情報通信学会総合大会，D-11-29，pp. 1，Mar. 2025．
 * 藤代能輝，**栗原康佑**，浜本隆之，前田慶博，"単一光子検出型撮像方式におけるバイナリテンソル分解を用いた画像再構成の検討"，電子情報通信学会総合大会，D-11-29，pp. 1，Mar. 2025．
 * 梅澤ひかる，**栗原康佑**，前田慶博，杉村大輔，福嶋慶繁，浜本隆之，"低ランク近似に基づく遠赤外動画像からの非接触脈拍数推定"，電子情報通信学会技術研究報告，Vol. 124，No. 405，pp. 150--155，Mar. 2025．[**（IE賞）**](https://www.ieice.org/iss/ie/jpn/index.html)
 * 乙部航，**栗原康佑**，前田慶博，浜本隆之，"単一光子検出型撮像における深層展開を用いた画像再構成"，電子情報通信学会技術研究報告，Vol. 124，No. 405，pp. 101--105，Mar. 2025．
@@ -114,7 +119,7 @@ DENSO Corporation, Japan.
 
 ## Academic Activities
 
-運営委員，第31回画像センシングシンポジウム(SSII2025)庶務会場部会
+* 運営委員，第31回画像センシングシンポジウム(SSII2025)庶務会場部会
 
 ## Lectures
 
