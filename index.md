@@ -10,41 +10,41 @@ Assistant professor, Faculty of Engineering, Department of Electrical Engineerin
 
 ## Research Interests
 
-Image Processing, Biosignal Processing
+* Image Processing, Biosignal Processing
 
 ## Academic Degree
 
-Doctor of Engineering (from Tokyo University of Science, 2024)
+* Doctor of Engineering (from Tokyo University of Science, 2024)
 
 ## Education History
 
-**Ph.D., (Apr. 2021 - Mar. 2024)**
+* **Ph.D., (Apr. 2021 - Mar. 2024)**
 Department of Electrical Engineering, Graduate School of Engineering, Tokyo University of Science, Japan.
 [(Hamamoto Lab.)](https://www.rs.tus.ac.jp/hamalab/)
 
-**M.E., (Apr. 2018 - Mar. 2020)**
+* **M.E., (Apr. 2018 - Mar. 2020)**
 Department of Electrical Engineering, Graduate School of Engineering, Tokyo University of Science, Japan.
 [(Hamamoto Lab.)](https://www.rs.tus.ac.jp/hamalab/)
 
-**B.E., (Apr. 2014 - Mar. 2018)**
+* **B.E., (Apr. 2014 - Mar. 2018)**
 Department of Electrical Engineering, Faculty of Engineering, Tokyo University of Science, Japan.
 [(Hamamoto Lab.)](https://www.rs.tus.ac.jp/hamalab/)
 
 ## Career History
 
-**Assistant Professor (Apr. 2024 - Current)**
+* **Assistant Professor (Apr. 2024 - Current)**
 Faculty of Engineering, Department of Electrical Engineering, Tokyo University of Science (TUS), Tokyo, Japan. [(Hamamoto Lab.)](https://www.rs.tus.ac.jp/hamalab/)
 
-**Researcher (Apr. 2024 - Current)**
+* **Researcher (Apr. 2024 - Current)**
 Research Center for Space System Innovation, Tokyo University of Science (TUS), Tokyo, Japan.
 
-**Part-time Lecturer (Apr. 2024 - Mar. 2025)**
+* **Part-time Lecturer (Apr. 2024 - Mar. 2025)**
 Tsuda University, Tokyo, Japan.
 
-**Research Fellow (DC2) (Apr. 2023 - Mar. 2024)**
+* **Research Fellow (DC2) (Apr. 2023 - Mar. 2024)**
 Japan Society for the Promotion of Science.
 
-**Software Engineer (Apr. 2020 - Feb. 2022)**
+* **Software Engineer (Apr. 2020 - Feb. 2022)**
 DENSO Corporation, Japan.
 
 ## Publications
@@ -107,10 +107,11 @@ DENSO Corporation, Japan.
 
 ## Grants
 
-* 日本学術振興会 科研費 若手研究 **（代表者）**，"物理モデルとデータ駆動科学が協調した時空間イベントセンシングに基づく振動計測"，Apr. 2025 - Mar. 2027.
-* 公共財団法人 精密測定技術振興財団 2024年度助成金（共同研究者），"マイクアレイ-カメラ融合による心音の非接触精密計測手法の開発"，Jan. 2025 - Mar. 2026.
-* 日本学術振興会 科研費 研究活動スタート支援 **（代表者）**，"データ駆動型モデリングと医学知識が協調した非接触脈波伝播計測"，July. 2024 - Mar. 2026.
-* 日本学術振興会 科研費 特別研究員奨励費 **（代表者）**，"時間－空間－波長の多次元情報センシングに基づく非接触脈波計測"，Apr. 2023 - Mar. 2025.
+* 日本学術振興会 科研費 若手研究，"物理モデルとデータ駆動科学が協調した時空間イベントセンシングに基づく振動計測"，**研究代表者**（2025年度～2026年度）
+* 日本学術振興会 科研費 基盤研究（B），"単一光子検出型イメージセンサにおけるテンソル表現を用いた柔軟な撮像の実現"，研究分担者（2025年度～2027年度）
+* 公共財団法人 精密測定技術振興財団 2024年度助成金，"マイクアレイ-カメラ融合による心音の非接触精密計測手法の開発"，共同研究者（2024年度）
+* 日本学術振興会 科研費 研究活動スタート支援，"データ駆動型モデリングと医学知識が協調した非接触脈波伝播計測"，**（代表者）**（2024年度～2025年度）
+* 日本学術振興会 科研費 特別研究員奨励費，"時間－空間－波長の多次元情報センシングに基づく非接触脈波計測"，**（代表者）**（2023年度～2024年度）
 
 ## Professional Membership
 
@@ -119,7 +120,7 @@ DENSO Corporation, Japan.
 
 ## Academic Activities
 
-* 運営委員，第31回画像センシングシンポジウム(SSII2025)庶務会場部会
+* 運営委員，第31回画像センシングシンポジウム（SSII2025）庶務会場部会
 
 ## Lectures
 
